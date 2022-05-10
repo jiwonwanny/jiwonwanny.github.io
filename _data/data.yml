@@ -12,13 +12,13 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jaewook_lee@outlook.com
-    phone: 010 5587 4930
+    email: jiwon.choi@jbnu.ac.kr
+    phone: 010 2854 3929
     citizenship:
-    website: lee-jaewook.github.io #do not add http://
-    linkedin: lee-jaewook # add only @
+    # website: jiwonwanny.github.io #do not add http://
+    linkedin: jiwon-choi-02b09a209 # add only @
     xing: 
-    github: lee-jaewook
+    github: jiwonwanny
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -56,52 +56,24 @@ skills:
         level: 70%
 
       - name: Java
-        level: 60%
-
-      - name: Javascript & NodeJS
-        level: 60%
-
-      - name: HTML5 & CSS
-        level: 70%
-
-      - name: React
-        level: 50%
+        level: 20%
 
       - name: SQL
         level: 60%
-      
-      - name: AWS
-        level: 30%
-
-      - name: Docker
-        level: 30%
 
 career-profile:
-    main : 문제 해결에 집중하는 개발자🧑🏻‍💻, 이재욱입니다.
+    main : This is jiwon's resume.
     title: Introduction
     summary: |
-      - 안녕하세요! 신입 백엔드 개발자 이재욱입니다.
-      - 개발자를 꿈꾸기 전부터 `"이 문제를 어떻게 해결할 수 있을까?"`를 고민하는 즐거움에 살다가, 지금은 개발을 통한 문제 해결에 푹 빠져있습니다.
-      - 꾸준함의 힘을 믿기에 [`1일 1커밋`](https://github.com/lee-jaewook) 및 [`1일 1알고리즘`](https://leetcode.com/lee-jaewook/) 운동, [`기술 블로그`](https://lee-jaewook.github.io/) 운영을 하고 있습니다.
-      - 항상 [`애자일 4대 선언 및 12가지 원칙`](https://agilemanifesto.org/iso/ko/manifesto.html)에 따라 개발하고자 노력합니다. 
+      - 안녕하세요! 
 
 education:
     - degree: BEng in Software Engineering
       university: Jeonbuk National University
-      time: 2016 - 2022
+      time: 2013.03 - 2020.08
       details: |
 
 experiences:
-    - role: Undergraduate Research Assistant
-      time: 2021년 12월 - Present
-      company: ML Lab, Pohang University of Science and Technology
-      details: |
-        - 지도 교수 : [안성수 교수님](https://sites.google.com/view/sungsooahn0215/home)
-        - 기술 스택 : <mark>Python</mark> <mark>Pytorch</mark> <mark>tensorflow</mark>
-        - 연구 분야 
-          - Machine Learning
-          - Graph Neural Network
-          - Drug discovery
     - role: Undergraduate Research Assistant
       time: 2019년 12월 - 2020년 11월
       company: AI&SE Lab, Jeonbuk National University
